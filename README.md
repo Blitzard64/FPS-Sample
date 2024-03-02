@@ -9,5 +9,6 @@ Features of the project include:
   7) Shoot
   8) Reload
   9) SFX sounds with each action
+
 *Note: Scoping on enemy (using right click), is not working. I have tried many methods.
 There is some problem with the vector addition.
